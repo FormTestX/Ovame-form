@@ -208,3 +208,9 @@ input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[typ
 btnl {
 	color: black;
 }
+
+.ty {
+	margin-top: 50px;
+	text-align: center;
+	font-family: sans serif;
+}
