@@ -95,6 +95,8 @@ label.fcf-label {
 .fcf-btn {
     display: inline-block;
     font-weight: 400;
+    color: white;
+    text-decoration: none;
     color: #212529;
     text-align: center;
     vertical-align: middle;
