@@ -214,3 +214,17 @@ btnl {
 	text-align: center;
 	font-family: sans serif;
 }
+
+.footer {
+	background-color: #9fbccf;
+	color: white;
+	text-align: center;
+	position: relative;
+	margin-top: auto;
+	margin-left: -8px;
+	margin-right: -8px;
+	margin-bottom: -100%;
+	font-family: sans-serif;
+	padding: 25px;
+	width: cover;
+}
