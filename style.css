@@ -440,13 +440,14 @@ btnl {
 }
 
 .ty {
-	margin-top: 50px;
+	margin-top: 20px;
 	text-align: center;
 	font-family: sans-serif;
 	display: flex;
 	flex-direction: column;
 	height: 100vh;
 	opacity: 70%;
+	padding: 10px;
 	border: 1px solid #ced4da;
 	border-radius: 5px;
 	height: 350px;
@@ -456,10 +457,12 @@ btnl {
 	background-color: #9fbccf;
 	color: white;
 	text-align: center;
-	position: relative;
-	margin-top: 216px;
+	position: fixed;
+	bottom: 10;
+	top: auto;
 	font-family: sans-serif;
 	padding: 25px;
-	width: cover;
+	margin: -20px;
+	width: 100%;
 	
 }
