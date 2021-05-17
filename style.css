@@ -476,7 +476,7 @@ btnl {
 	outline: none;
 	width: 70%;
 	overflow: auto;
-	border: 1px solid #ced4da;
+	border: 1px solid white;
 	border-radius: 5px;
 	padding: 10px;
 }
