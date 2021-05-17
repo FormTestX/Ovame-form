@@ -466,3 +466,17 @@ btnl {
 	width: 100%;
 	
 }
+
+.btnt {
+	color: white;
+	text-decoration: none;
+}
+
+.select {
+	outline: none;
+	width: 70%;
+	overflow: auto;
+	border: 1px solid #ced4da;
+	border-radius: 5px;
+	padding: 10px;
+}
