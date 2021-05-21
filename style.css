@@ -440,30 +440,29 @@ btnl {
 }
 
 .ty {
+	display: block;
 	margin-top: 20px;
 	text-align: center;
 	font-family: sans-serif;
-	display: flex;
-	flex-direction: column;
-	height: 100vh;
+	width: 100%;
+	height: auto;
 	opacity: 70%;
-	padding: 10px;
+	padding-bottom: 50px;
+	padding-top: 20px;
 	border: 1px solid #ced4da;
 	border-radius: 5px;
-	height: 350px;
+	word-wrap: word-break;
 }
 
 .footerm {
 	background-color: #9fbccf;
 	color: white;
 	text-align: center;
-	position: fixed;
-	bottom: 10;
-	top: auto;
+	display: block;
+	position: relative;
+	margin-top: 100%;
 	font-family: sans-serif;
 	padding: 25px;
-	margin: -20px;
-	width: 100%;
 	
 }
 
