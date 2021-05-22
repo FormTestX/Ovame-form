@@ -427,11 +427,13 @@ input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[typ
 	font-size: 25px;
 	margin-right: 30px;
 	color: white;
+	text-decoration: none;
 }
 
 #ig {
 	font-size: 25px;
 	color: white;
+	text-decoration: none;
 }
 
 btnl {
@@ -439,32 +441,21 @@ btnl {
 }
 
 .ty {
-	display: block;
-	margin: 10px;
-	margin-top: 20px;
+	border: 2px solid #ced4da;
 	text-align: center;
-	font-family: sans-serif;
-	padding: 40px;
-	height: auto;
-	padding-bottom: 50px;
-	padding-top: 20px;
-	border: 1px solid #ced4da;
-	border-radius: 5px;
+	border-radius: 6px;
+	font-family: 'Open Sans', sans-serif;
+	padding: 20px;
+	width: fit;
 	word-wrap: word-break;
+	font-size: 12px;
 }
 
-.footerm {
-	background-color: #9fbccf;
-	color: white;
+.ft {
 	text-align: center;
-	display: block;
-	position: relative;
-	margin-top: 100%;
-	margin-bottom: -1x;
-	font-family: 'Source Sans Pro', sans-serif;
-	padding: 40px;
-	padding-left: 40px;
-	padding-right: 40px;
+	font-family: 'Open Sans', sans-serif;
+	color: #969997;
+	
 }
 
 .btnt {
@@ -481,17 +472,24 @@ btnl {
 	padding: 10px;
 }
 
-.fb {
-	display: flex;
-	flex-direction: column;
-	font-size: 25px;
+#fbm {
+	color: #969997;
 	margin-right: 20px;
-	color: white;
+	text-decoration: none;
+	font-size: 21px;
 }
 
-.ig {
-	display: flex;
-	flex-direction: column;
-	font-size: 25px;
-	color: white;
+#igm {
+	color: #969997;
+	text-decoration: none;
+	font-size: 22px;
+}
+
+.anm {
+	color: black;
+	cursor: pointer;
+}
+
+.hty {
+	font-size: 1.3em;
 }
