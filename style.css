@@ -444,11 +444,10 @@ btnl {
 	border: 2px solid #ced4da;
 	text-align: center;
 	border-radius: 6px;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'KoHo', sans-serif;
 	padding: 20px;
 	width: fit;
-	word-wrap: word-break;
-	font-size: 12px;
+	margin: 10px;
 }
 
 .ft {
@@ -474,7 +473,7 @@ btnl {
 
 #fbm {
 	color: #969997;
-	margin-right: 20px;
+	margin-right: 25px;
 	text-decoration: none;
 	font-size: 21px;
 }
@@ -490,6 +489,6 @@ btnl {
 	cursor: pointer;
 }
 
-.hty {
-	font-size: 1.3em;
+.mg {
+	margin: 10px;
 }
