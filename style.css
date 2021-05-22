@@ -443,7 +443,7 @@ btnl {
 .ty {
 	border: 2px solid #ced4da;
 	text-align: center;
-	border-radius: 6px;
+	border-radius: 8px;
 	font-family: 'KoHo', sans-serif;
 	padding: 50px;
 	width: fit;
@@ -473,7 +473,7 @@ btnl {
 
 #fbm {
 	color: #969997;
-	margin-right: 25px;
+	margin-right: 35px;
 	text-decoration: none;
 	font-size: 21px;
 }
