@@ -447,7 +447,7 @@ btnl {
 	font-family: 'KoHo', sans-serif;
 	padding: 50px;
 	width: fit;
-	margin: 50px 80px 30px 80px;
+	margin: 50px 70px 30px 70px;
 }
 
 .ft {
@@ -490,5 +490,6 @@ btnl {
 }
 
 .mg {
-	margin: 50px;
+	margin: 30px;
+	opacity: 70%;
 }
